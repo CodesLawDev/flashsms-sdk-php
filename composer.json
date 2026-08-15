@@ -1,0 +1,17 @@
+{
+  "name": "flashsms/sdk",
+  "description": "FlashSMS API v2 PHP client by Codeslaw Global Technologies",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{ "name": "Codeslaw Global Technologies" }],
+  "autoload": {
+    "psr-4": {
+      "Flashsms\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.1",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
