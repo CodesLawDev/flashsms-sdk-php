@@ -3,7 +3,11 @@
   "description": "FlashSMS API v2 PHP client by Codeslaw Global Technologies",
   "type": "library",
   "license": "MIT",
-  "authors": [{ "name": "Codeslaw Global Technologies" }],
+  "authors": [
+    {
+      "name": "Codeslaw Global Technologies"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Flashsms\\": "src/"
