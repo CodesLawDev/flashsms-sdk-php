@@ -1,8 +1,22 @@
 {
   "name": "flashsms/sdk",
-  "description": "FlashSMS API v2 PHP client by Codeslaw Global Technologies",
+  "description": "Official FlashSMS API v2 PHP client by Codeslaw Global Technologies",
   "type": "library",
+  "version": "0.1.0",
   "license": "MIT",
+  "keywords": [
+    "flashsms",
+    "sms",
+    "ghana",
+    "bulk-sms",
+    "api-client",
+    "codeslaw"
+  ],
+  "homepage": "https://flashsms.africa/docs?section=sdks-php",
+  "support": {
+    "issues": "https://github.com/skaduteye/bms.codeslaw/issues",
+    "source": "https://github.com/skaduteye/bms.codeslaw/tree/dev/packages/sdk-php"
+  },
   "authors": [
     {
       "name": "Codeslaw Global Technologies"
